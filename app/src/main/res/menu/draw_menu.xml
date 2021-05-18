@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:title="Downloads"
+            android:id="@+id/downloads"
+            android:icon="@drawable/ic_baseline_cloud_download_24" />
+        <item
+            android:title="Watchlist"
+            android:id="@+id/watchlist"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+        <item
+            android:title="prize"
+            android:id="@+id/prize"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+        <item
+            android:title="movies"
+            android:id="@+id/movies"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+        <item
+            android:title="premium"
+            android:id="@+id/premium"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+        <item
+            android:title="trending"
+            android:id="@+id/trending"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+        <item
+            android:title="Games"
+            android:id="@+id/games"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+        <item
+            android:title="Chaneels"
+            android:id="@+id/chanells"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+        <item
+            android:title="Languages"
+            android:id="@+id/language"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+        <item
+            android:title="genere"
+            android:id="@+id/genere"
+            android:icon="@drawable/ic_baseline_cloud_download_24"/>
+
+
+
+
+    </group>
+
+</menu>
